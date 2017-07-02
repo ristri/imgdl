@@ -1,8 +1,10 @@
+# ©Rishabh Tripathi (github.com/ristri)
 from bs4 import BeautifulSoup
 import urllib.request
 from datetime import datetime
 
 def main():
+    print("©Rishabh Tripathi (github.com/ristri)")
     soup = html_source()
     img_dl(soup)
 def user_input():
