@@ -8,4 +8,5 @@ Beautiful Soup 4
 Download main.py and execute
 
     python main.y  
-You can directly download executable for Windows (.exe) [here](https://github.com/ristri/imgdl/releases)
+You can directly download executable for Windows (.exe) here &nbsp;&nbsp;&nbsp;&nbsp;
+[![Total downloads](https://img.shields.io/github/downloads/ristri/imgdl/total.svg)](https://github.com/ristri/imgdl/releases)
